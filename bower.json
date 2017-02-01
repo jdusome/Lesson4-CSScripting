@@ -1,22 +1,26 @@
 {
-  "name": "Lesson2",
-  "description": "First example of JS in class",
+  "name": "Lesson4",
+  "description": "Lesson 4 JavaScript",
   "main": "",
   "keywords": [
     "JavaScript"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/jdusome/Lesson4-CSScripting",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "Scripts/lib"
   ],
   "dependencies": {
     "jquery": "2.2.4",
     "bootstrap": "^3.3.7",
     "font-awesome": "^4.7.0"
-  }
+  },
+  "authors": [
+    "Joshua Dusome <failnix@hotmail.com>"
+  ]
 }
